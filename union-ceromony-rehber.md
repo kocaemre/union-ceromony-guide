@@ -68,7 +68,7 @@ RDP ile bağlandıktan sonra Firefox'u şu şekilde bulun:
 firefox
 ```
 
-## Törene Katılın
+## Katılın
 1. [https://ceremony.union.build/](https://ceremony.union.build/) adresine gidin.
 2. GitHub veya Google hesabınızla giriş yapın.
 3. **Linux** seçeneğini seçin ve verilen kodu kopyalayın.
