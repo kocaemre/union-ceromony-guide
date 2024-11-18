@@ -1,6 +1,6 @@
 
 
-# Birlik Törenine Katılın
+# Union Ceromony
 
 ## Masaüstü Ortamını Kurun
 Paket listesini güncelleyin ve XFCE masaüstü ortamını kurun:
